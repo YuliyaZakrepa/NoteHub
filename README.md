@@ -3,4 +3,4 @@
 <br>https://github.com/YuliyaZakrepa/08-zustand
 <br>https://github.com/YuliyaZakrepa/07-routing-nextjs
 <br>https://github.com/YuliyaZakrepa/06-notehub-nextjs
-<br>https://github.com/YuliyaZakrepa/05-notehub
+<br>https://github.com/YuliyaZakrepa/05-notehub.
